@@ -38,3 +38,12 @@
 # print(3*3+3/3-3)
 # print(3*(3+3)/3-3)
 # print(3+3-3/3*3)
+
+bmi=84/1.65**2
+print(bmi)
+
+# #floors the Value
+# print(int(bmi))
+
+#rounding off
+print(round(bmi))
